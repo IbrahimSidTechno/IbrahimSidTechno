@@ -1,85 +1,150 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hello,+I'm+Muhammad+Ibrahim!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=Hi,+I'm+Muhammad+Ibrahim!;Full-Stack+Developer+(MERN);React.js+•+Next.js+•+Node.js+•+NestJS;Building+Scalable+Web+Applications+🚀" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Crafting Web Magic with MERN • React • Node.js • MongoDB • Next.js</h3>
+<h3 align="center">
+Full-Stack Developer (MERN) | React.js • Next.js • Node.js • NestJS | AI-Augmented Engineering & Scalable REST API Architecture
+</h3>
 
 <p align="center">
-  <img alt="Coding" style="border-radius:16px;" src="./background.png" width="600">
+  <img alt="Coding" style="border-radius:16px;" src="./background.png" width="650">
 </p>
 
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-ibrahim-a69825245" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   &nbsp;
   <a href="https://x.com/Ibrahim93045" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/m.ibrahim_792/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
   &nbsp;
   <a href="http://facebook.com/profile.php?id=100075550872675" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-## 🌟 About Me
+# 👨‍💻 About Me
 
-- 🚀 Building **sleek, scalable web apps** with clean code & modern tools.
-- 💡 Curious about **new tech**, solving real-world problems.
-- 💻 Currently working with **React, Node.js, Firebase**.
-- 🤝 Open to **collaborations** on web apps, APIs, or real-time systems.
-- 📧 Reach me at: **ibrahimkashif792@gmail.com**
+- 🚀 Full-Stack Developer with **2+ years** of production experience.
+- ⚡ Building scalable web applications using **React.js, Next.js, Node.js, Express.js & NestJS**.
+- 🔥 Experienced in designing **REST APIs**, authentication systems, and real-time applications.
+- 🤖 Passionate about **AI-Augmented Development** using ChatGPT, Claude Code, Cursor, GitHub Copilot & OpenAI APIs.
+- 📊 Built healthcare, travel, CRM, and booking management platforms with **50+ API integrations**.
+- 🌱 Currently exploring **System Design, AWS, Docker, CI/CD, Redis & Agentic AI Workflows**.
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, NestJS, MongoDB, PostgreSQL, REST APIs & AI-assisted development**.
+- 📫 Reach me at **ibrahimkashif792@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠 Tech Stack
 
-### 🎨 Frontend Wizardry
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
-</p>
+## 🎨 Frontend
 
-### 🖥️ Backend & Database Mastery
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### 🔗 Real-Time & APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚙ Backend
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimSidTechno&show_icons=true&theme=radical&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimSidTechno&theme=radical&hide_border=true" width="400"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase" />
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</p>
+
+---
+
+## 🤖 AI & Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSidTechno&layout=compact&theme=radical&hide_border=true" width="400"/>
+
+💡 AI Tools I use daily
+
+ChatGPT • Claude Code • Cursor AI • GitHub Copilot • Codex • Replit • Lovable
+
 </p>
+
+---
+
+# 🚀 What I Build
+
+✅ Scalable MERN Applications
+
+✅ Enterprise Dashboards
+
+✅ REST APIs & Backend Systems
+
+✅ Authentication & Authorization
+
+✅ AI-Powered Features
+
+✅ Real-Time Applications
+
+✅ Admin Panels
+
+✅ CRM Systems
+
+✅ Healthcare Platforms
+
+✅ Travel & Booking Platforms
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahim08043&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim08043&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim08043&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim08043&theme=tokyo-night)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=ibrahim08043&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+# ⚡ Fun Fact
+
+> "I enjoy transforming complex business requirements into scalable, maintainable, and high-performance web applications while leveraging AI to build faster and smarter."
